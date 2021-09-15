@@ -2,7 +2,7 @@
 - 👀 I’m interested in FRONT-END programming
 - 🌱 I’m currently learning Html,css,js and soon react js.
 - 💞️ I’m looking to collaborate on everything related to web programming;
-- 📫 To contact me, here is my email: person.zen15@gmail.com 
+
 
 <!---
 Dark-Lover/Dark-Lover is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
