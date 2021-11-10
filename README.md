@@ -2,7 +2,6 @@
 - 👀 I’m interested in FRONT-END programming
 - 🌱 I’m currently learning Html,css,js and soon react js.
 - 💞️ I’m looking to collaborate on everything related to web programming;
-- Email: person.zen15@gmail.com
 
 
 <!---
