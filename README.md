@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Houssine a.k.a @Dark-Lover
 - 👀 I’m interested in FRONT-END programming
-- 🌱 I’m currently learning Html,css,js and soon react js.
-- 💞️ I’m looking to collaborate on everything related to web programming;
+- 🌱 I’m currently learning React js, Nodejs, Express.
+- 💞️ I’m looking to collaborate on everything related to web development;
 
 
 <!---
